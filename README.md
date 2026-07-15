@@ -63,7 +63,7 @@ Found that Facebook converts at ~3x the rate of AdWords at a ~37% lower cost per
 
 ## Data
 
-- **Source:** [A/B Testing Marketing Campaign Dataset, Kaggle](#) *(replace with your dataset link)*
+- **Source:** [A/B Testing Marketing Campaign Dataset, Kaggle](#) *(https://www.kaggle.com/datasets/shubhamdamai/ab-testing-analysis-facebook-vs-adword)*
 - **Size:** 1,000 daily records, 2021–2023, tracked in parallel for both platforms
 - **Fields:** views, clicks, conversions, CTR, conversion rate, cost-per-click, cost-per-ad
 - **Quality:** No missing values or duplicates; dates verified and cast to datetime for trend analysis
@@ -100,10 +100,9 @@ Found that Facebook converts at ~3x the rate of AdWords at a ~37% lower cost per
 ## Repository Structure
 
 ```
-├── AD_Campaign_Analysis.ipynb   # Full analysis: EDA → metrics → hypothesis testing
-├── data/
+├── AD Campaign Analysis.ipynb   # Full analysis: EDA → metrics → hypothesis testing
+├── CSV_Data/
 │   └── ab_testing_dataset.csv   # Source dataset
-├── requirements.txt             # Python dependencies
 ├── README.md                    # You are here
 ```
 
@@ -124,7 +123,10 @@ jupyter notebook AD_Campaign_Analysis.ipynb
 
 ## About Me
 
-*(Add 2–3 lines here: who you are, what role you're targeting, and a link to your LinkedIn/portfolio/other projects. This is the section recruiters check right after the results table — don't leave it blank.)*
+I'm Rakesh, a Data Analyst with a BCA background and specialised training in Artificial Intelligence and Data Analytics from CTTC Bhubaneswar (MSME , Government of India ). I work at the intersection of Python, SQL, and Power BI to help businesses extract clarity from complexity. My approach is simple: clean the data, understand the story it's telling, and build something a decision-maker can actually use.
+Over the past year I've completed end-to-end analytics projects covering sales analytics, supply chain optimisation, demand forecasting, customer behaviour analysis. I've built interactive Power BI dashboards that track KPIs in real time, developed machine learning models, and performed EDA that uncovered insights not visible in raw reports. Every project was driven by one question: what decision does this data need to support?
+Right now I'm actively building in the data space — sharpening my skills in Azure, advanced SQL, and ML deployment while seeking my first full-time role in Data Analytics, Business Intelligence, or Data Visualisation. I want to work with a team that believes data is not just a report — it's a competitive advantage.
+If you're hiring a data analyst who is hungry, technically solid, and genuinely curious about what the numbers mean — let's talk. DM me here or write to rakeshkpradhan15@gmail.com.
 
 ---
 ⭐ If you found this project useful, consider starring the repo.
