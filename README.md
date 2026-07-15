@@ -1,6 +1,6 @@
 # 📊 Facebook Ads vs Google AdWords — A/B Test & Budget Allocation Analysis
 
-[![View Live Slides](https://img.shields.io/badge/View-Live%20Presentation-1E8F73?style=for-the-badge)](https://rakeshkpradhan15-hub.github.io/your-repo-name/)
+[![View Live Slides](https://img.shields.io/badge/View-Live%20Presentation-1E8F73?style=for-the-badge)](https://rakeshkpradhan15-hub.github.io/facebook-vs-adwords-ab-test/)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-yellow)
